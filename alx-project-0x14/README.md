@@ -1,11 +1,9 @@
 ## API Overview
 The TMDb (The Movie Database) API provides access to a rich, community-driven repository of movies, TV shows, and related media. You can fetch metadata such as titles, summaries, ratings, cast and crew details, posters, trailers, trending content, and much more—all in multiple languages, with high-quality imagery and flexible search and discovery endpoints.
-sirjosh.mintlify.app
-Zuplo
 
 ## Version
 Current version in use: v3 of the TMDb API
-The Movie Database (TMDB)
+
 ## Available Endpoints
 
     GET /movie/{movie_id} — Retrieve detailed information about a specific movie: title, overview, genres, release date, etc.
